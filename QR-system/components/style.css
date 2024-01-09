@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(252, 252, 252);
+}
+
+/* NAVBAR PAGE */
+.navbar {
+    background-color: #e9f72d;
+    z-index: 4;
+    position: fixed;
+    font-size: 25px;
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* TITLE HEADING PAGE */
+.header-menu {
+    text-align: center;
+    padding: 5%;
+    text-align: center;
+    font-size: 5rem;
+    padding: 150px 0 40px;
+    font-weight: 900;
+    font-family: "Press Start 2P", cursive;
+    color: #000000;
+}
+
+/* FORM PAGE MENU */
+.dynamic-form {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-right: 780px;
+}
+
+#form-container {
+    margin-bottom: 10px;
+}
