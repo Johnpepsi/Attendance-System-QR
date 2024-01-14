@@ -18,6 +18,7 @@ Project Overview
 - PostgresSQL
 - Authentication Security
 - NodeJS & EJS
-- HTML5, CSS
+- HTML5, CSS3
 - jQuery
 - DOM
+- ReactJS
